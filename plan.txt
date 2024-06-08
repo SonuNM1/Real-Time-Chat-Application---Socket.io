@@ -1,0 +1,14 @@
+
+Create NPM Project 
+
+Create Index, CSS, JS files 
+
+Install dependencies (express, nodemon )
+
+Create a express server (server.JS)
+
+Do frontend part 
+
+Install socket.io, Setup socket.io in server.js and client client.js
+
+Client and message logic in client.js
